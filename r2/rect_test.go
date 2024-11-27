@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pavlov061356/geo/r1"
+	"github.com/mrosminin/tf-geo/r1"
 )
 
 var (

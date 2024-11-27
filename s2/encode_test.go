@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pavlov061356/geo/r3"
+	"github.com/mrosminin/tf-geo/r3"
 )
 
 type encodableRegion interface {

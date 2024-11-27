@@ -4,7 +4,7 @@ import (
 	"errors"
 	"slices"
 
-	"github.com/pavlov061356/geo/s1"
+	"github.com/mrosminin/tf-geo/s1"
 )
 
 var (

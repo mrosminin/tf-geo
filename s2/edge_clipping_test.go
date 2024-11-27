@@ -19,10 +19,10 @@ import (
 	"math"
 	"testing"
 
-	"github.com/pavlov061356/geo/r1"
-	"github.com/pavlov061356/geo/r2"
-	"github.com/pavlov061356/geo/r3"
-	"github.com/pavlov061356/geo/s1"
+	"github.com/mrosminin/tf-geo/r1"
+	"github.com/mrosminin/tf-geo/r2"
+	"github.com/mrosminin/tf-geo/r3"
+	"github.com/mrosminin/tf-geo/s1"
 )
 
 func TestEdgeClippingIntersectsFace(t *testing.T) {

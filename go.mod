@@ -1,4 +1,4 @@
-module github.com/pavlov061356/geo
+module github.com/mrosminin/tf-geo
 
 go 1.22.0
 

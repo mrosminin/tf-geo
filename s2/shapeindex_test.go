@@ -17,8 +17,8 @@ package s2
 import (
 	"testing"
 
-	"github.com/pavlov061356/geo/r3"
-	"github.com/pavlov061356/geo/s1"
+	"github.com/mrosminin/tf-geo/r3"
+	"github.com/mrosminin/tf-geo/s1"
 )
 
 func TestShapeIndexBasics(t *testing.T) {
