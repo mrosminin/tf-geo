@@ -823,18 +823,22 @@ func TestSliceDivided(t *testing.T) {
 		for i := range got {
 			points[i] = got[i].Point
 		}
+		for i := 1; i < len(got)-1; i++ {
+			if got[i-1].Fraction > got[i].Fraction {
+				t.Errorf("Fraction of i is less than i-1; i: %v; got: %v\n", i, got)
+			}
+
+		}
 		if !pointSlicesApproxEqual(points, want, kEpsilon) {
 			t.Errorf("%v: got %v, want %v", test.name, got, want)
 		}
 
-		for i := 1; i < len(got)-1; i++ {
-			prev := LatLngFromPoint(got[i-1].Point)
-			curr := LatLngFromPoint(got[i].Point)
+		// 	prev := LatLngFromPoint(got[i-1].Point)
+		// 	curr := LatLngFromPoint(got[i].Point)
 
-			if curr.Lng < prev.Lng {
-				t.Errorf("%v: got %v, want %v", test.name, got, want)
-			}
-		}
+		// 	if curr.Lng < prev.Lng {
+		// 		t.Errorf("%v: got %v, want %v", test.name, got, want)
+		// 	}
 	}
 }
 
