@@ -27,9 +27,9 @@ package s2
 import (
 	"math"
 
-	"github.com/mrosminin/tf-geo/r1"
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 const (

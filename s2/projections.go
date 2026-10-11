@@ -17,8 +17,8 @@ package s2
 import (
 	"math"
 
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // Projection defines an interface for different ways of mapping between s2 and r2 Points.

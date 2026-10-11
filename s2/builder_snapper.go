@@ -17,7 +17,7 @@ package s2
 import (
 	"math"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // A Snapper restricts the locations of the output vertices. For

@@ -17,8 +17,8 @@ package s2_test
 import (
 	"fmt"
 
-	"github.com/mrosminin/tf-geo/s1"
-	"github.com/mrosminin/tf-geo/s2"
+	"git.transflow.ru/go-libs/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s2"
 )
 
 func ExampleRect_DistanceToLatLng() {

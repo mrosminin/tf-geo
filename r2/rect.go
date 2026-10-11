@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/mrosminin/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r1"
 )
 
 // Point represents a point in ℝ².

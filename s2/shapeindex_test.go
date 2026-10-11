@@ -17,8 +17,8 @@ package s2
 import (
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r3"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 func TestShapeIndexBasics(t *testing.T) {

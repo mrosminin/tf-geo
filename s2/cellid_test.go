@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 func TestCellIDFromFace(t *testing.T) {

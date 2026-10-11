@@ -17,7 +17,7 @@ package s2
 import (
 	"math"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // maxDistance implements distance as the supplementary distance (Pi - x) to find

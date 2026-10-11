@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r1"
 )
 
 var (

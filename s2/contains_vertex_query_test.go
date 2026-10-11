@@ -17,7 +17,7 @@ package s2
 import (
 	"testing"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 func TestContainsVertexQueryUndetermined(t *testing.T) {

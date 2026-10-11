@@ -17,7 +17,7 @@ package s2
 import (
 	"math"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 //

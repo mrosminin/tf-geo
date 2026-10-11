@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // Vector represents a point in ℝ³.

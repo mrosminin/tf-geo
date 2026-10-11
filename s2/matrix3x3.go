@@ -17,7 +17,7 @@ package s2
 import (
 	"fmt"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 // matrix3x3 represents a traditional 3x3 matrix of floating point values.

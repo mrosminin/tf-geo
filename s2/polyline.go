@@ -19,7 +19,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // Polyline represents a sequence of zero or more vertices connected by

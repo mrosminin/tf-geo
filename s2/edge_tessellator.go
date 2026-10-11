@@ -15,8 +15,8 @@
 package s2
 
 import (
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // Tessellation is implemented by subdividing the edge until the estimated

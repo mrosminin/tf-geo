@@ -18,7 +18,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 // maxEncodedVertices is the maximum number of vertices, in a row, to be encoded or decoded.

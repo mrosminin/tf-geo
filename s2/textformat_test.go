@@ -35,7 +35,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 // writePoint formats the point and writes it to the given writer.

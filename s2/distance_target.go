@@ -15,7 +15,7 @@
 package s2
 
 import (
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // The distance interface represents a set of common methods used by algorithms

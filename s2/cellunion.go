@@ -19,7 +19,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // A CellUnion is a collection of CellIDs.

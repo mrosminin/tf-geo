@@ -18,10 +18,10 @@ import (
 	"io"
 	"math"
 
-	"github.com/mrosminin/tf-geo/r1"
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/r3"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // Cell is an S2 region object that represents a cell. Unlike CellIDs,

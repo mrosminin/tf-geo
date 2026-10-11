@@ -20,8 +20,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/mrosminin/tf-geo/r1"
-	"github.com/mrosminin/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
 )
 
 // CellRelation describes the possible relationships between a target cell

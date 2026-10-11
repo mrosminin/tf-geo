@@ -15,8 +15,8 @@
 package s2
 
 import (
-	"github.com/mrosminin/tf-geo/r1"
-	"github.com/mrosminin/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r2"
 )
 
 // PaddedCell represents a Cell whose (u,v)-range has been expanded on

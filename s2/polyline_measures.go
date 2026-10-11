@@ -19,8 +19,8 @@ package s2
 // implement the methods in various other measures files.
 
 import (
-	"github.com/mrosminin/tf-geo/r3"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // polylineLength returns the length of the given Polyline.

@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 func perturbAtDistance(distance s1.Angle, a0, b0 Point) Point {

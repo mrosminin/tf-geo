@@ -17,7 +17,7 @@ package s2
 import (
 	"sort"
 
-	"github.com/mrosminin/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r2"
 )
 
 // CrossingEdgeQuery is used to find the Edge IDs of Shapes that are crossed by

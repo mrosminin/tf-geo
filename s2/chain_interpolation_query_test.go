@@ -3,7 +3,7 @@ package s2
 import (
 	"testing"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 const (
@@ -844,7 +844,7 @@ func TestSliceDivided(t *testing.T) {
 
 // goos: linux
 // goarch: amd64
-// pkg: github.com/mrosminin/tf-geo/s2
+// pkg: git.transflow.ru/go-libs/tf-geo/s2
 // cpu: AMD Ryzen 5 5600G with Radeon Graphics
 // === RUN   Benchmark_SliceDivided
 // Benchmark_SliceDivided
@@ -960,7 +960,7 @@ func Benchmark_InitChinInterpolationQuery(b *testing.B) {
 
 // goos: linux
 // goarch: amd64
-// pkg: github.com/mrosminin/tf-geo/s2
+// pkg: git.transflow.ru/go-libs/tf-geo/s2
 // cpu: AMD Ryzen 7 5800H with Radeon Graphics
 // === RUN   Benchmark_Slice
 // Benchmark_Slice

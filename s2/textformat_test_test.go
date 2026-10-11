@@ -18,9 +18,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r1"
-	"github.com/mrosminin/tf-geo/r3"
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/r1"
+	"git.transflow.ru/go-libs/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 func TestParseLatLng(t *testing.T) {

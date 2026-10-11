@@ -18,7 +18,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // The various Crossing methods are tested via s2edge_crosser_test

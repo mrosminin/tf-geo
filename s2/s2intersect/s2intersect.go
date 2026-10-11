@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/mrosminin/tf-geo/s2"
+	"git.transflow.ru/go-libs/tf-geo/s2"
 )
 
 // Re nomenclature used throughout this file: an "intersection" is a 2D

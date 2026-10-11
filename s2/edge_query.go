@@ -17,7 +17,7 @@ package s2
 import (
 	"sort"
 
-	"github.com/mrosminin/tf-geo/s1"
+	"git.transflow.ru/go-libs/tf-geo/s1"
 )
 
 // EdgeQueryOptions holds the options for controlling how EdgeQuery operates.

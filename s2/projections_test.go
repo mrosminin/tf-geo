@@ -18,8 +18,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r2"
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r2"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 func TestPlateCarreeProjectionInterpolate(t *testing.T) {

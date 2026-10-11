@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 type encodableRegion interface {

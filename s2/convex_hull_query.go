@@ -17,7 +17,7 @@ package s2
 import (
 	"sort"
 
-	"github.com/mrosminin/tf-geo/r3"
+	"git.transflow.ru/go-libs/tf-geo/r3"
 )
 
 // ConvexHullQuery builds the convex hull of any collection of points,
